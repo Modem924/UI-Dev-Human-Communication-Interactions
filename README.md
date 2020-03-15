@@ -2,7 +2,7 @@
 
 ### Contributors
  > - Youngho Kim : youngho.kim@stonybrook.edu
- > - Dongha Song : dongha.song@stnoybrook.edu
+ > - Dongha Song : dongha.song@stonybrook.edu
  > - Jey Kang    : 
 
 
